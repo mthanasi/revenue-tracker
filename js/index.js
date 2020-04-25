@@ -6,6 +6,7 @@ var pieCtx = document.getElementById('deptSales').getContext('2d');
 
 // Yearly Revenue
 var yearlyLabel = document.getElementById('yearlyTotal');
+yearlyLabel.innerHTML = "$0"
 
 // Monthly Revenue
 var newAmount = document.getElementById('itemAmount');
@@ -95,6 +96,7 @@ function addSale() {
 }
 
 function resetSales() {
+    yearlyLabel.innerHTML = "$0"
     // Reset Monthly Sales
     monthlySales.clear();
 
