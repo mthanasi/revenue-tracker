@@ -1,19 +1,20 @@
 # Revenue-Tracker
 
-Simple Revenue - Tracker for a Business selling Fitness Equipment.
+Simple Revenue - Tracker for a Business selling Fitness Equipment. Built with Chart.js.
 
-![](img.png)
+<p align="center"><img src="img.png" width="645" height="565"/></p>
 
-## Features
+### Features
 
-* Track Monthly Sales. 
+* Track Monthly Sales.
 * Track Department Sales.
 * Total Revenue Calculation.
 * Reset all Department and Monthly Sales.
 
-## Page published at:
+### Published on
 
-[https://mthanasi.github.io/Revenue-Tracker/](https://mthanasi.github.io/revenue-tracker/)
+[https://mthanasi.github.io/revenue-tracker/](https://mthanasi.github.io/revenue-tracker/)
 
-## License
+### License
+
 [MIT](https://choosealicense.com/licenses/mit/)
